@@ -33,3 +33,6 @@
 
 #build files
 /build*
+
+#results files
+/results*
