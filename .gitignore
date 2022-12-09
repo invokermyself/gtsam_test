@@ -39,3 +39,6 @@
 
 #results files
 /results*
+
+#vscode files
+/.vscode*
