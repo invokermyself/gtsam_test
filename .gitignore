@@ -34,5 +34,8 @@
 #build files
 /build*
 
+#data files
+/data*
+
 #results files
 /results*
